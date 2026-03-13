@@ -2,4 +2,8 @@ Our Team
 ------------------------
 
 1. Trainer
+<<<<<<< HEAD
 2. Aachal
+=======
+2. Sakshi
+>>>>>>> ea1aadfc1d80745517e38191fdb99d29249fabc8
